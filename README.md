@@ -4,8 +4,7 @@ Python API service with LLM + RAG for executing automation functions.
 Part of the assignment for Algo Root.
 
 ## 🚀 Installation
-
-1. Clone the repository:
+Clone the repository:
    ```bash
    git clone https://github.com/Srinath-Bharadwaj/LLM-RAG-Function-Execution.git
    cd LLM-RAG-Function-Execution
