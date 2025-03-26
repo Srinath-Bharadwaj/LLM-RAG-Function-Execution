@@ -56,14 +56,6 @@ The function is executed dynamically, and the result is returned.
 📝 License
 This project is for educational purposes.
 
-yaml
-Copy
-Edit
-
----
-
-### ✅ **Next Steps**
-1. **Update `README.md` using this template.**  
 2. **Commit and push the changes:**  
    ```bash
    git add README.md
